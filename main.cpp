@@ -51,7 +51,6 @@ int yournumber(int *inputvalue, int unknown)
         }
         std::cout << "Caractère Invalide!" << std::endl;
     }
-    std::cout << "Finally: " << d << std::endl;
 
     if (*inputvalue >= 0 && *inputvalue <= 9)
     {
