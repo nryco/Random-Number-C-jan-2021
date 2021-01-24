@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ program online
+// Code made with the help of @42prisme 
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
